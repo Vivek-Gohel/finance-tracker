@@ -60,7 +60,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard">
-      <h1>💰 Finance Tracker</h1>
+      <h1>My Finance Tracker</h1>
       <div className="summary">
         <div className="card green">
           <h3>Income</h3>
